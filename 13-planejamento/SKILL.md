@@ -1,5 +1,5 @@
 ---
-name: planejamento
+name: 13-planejamento
 description: Use esta skill antes de implementar qualquer feature nova, sistema ou mudança significativa. Ajuda a pensar antes de codar, mapeando fases, dependências e riscos.
 ---
 

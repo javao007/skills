@@ -1,5 +1,5 @@
 ---
-name: auth-jwt
+name: 03-auth-jwt
 description: Use esta skill quando o usuário precisar implementar login, logout, proteção de rotas, controle de acesso ou qualquer funcionalidade de autenticação e autorização.
 ---
 

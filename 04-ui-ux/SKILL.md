@@ -1,5 +1,5 @@
 ---
-name: ui-ux
+name: 04-ui-ux
 description: Use esta skill quando o usuário precisar criar telas, componentes, dashboards, formulários, tabelas, modais ou qualquer elemento de interface no frontend Next.js.
 ---
 

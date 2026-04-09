@@ -1,5 +1,5 @@
 ---
-name: planilha
+name: 19-planilha
 description: Use esta skill quando o usuário quiser exportar dados para Excel (.xlsx), gerar CSV, criar relatórios em planilha, importar dados de uma planilha ou manipular arquivos Excel no sistema.
 ---
 

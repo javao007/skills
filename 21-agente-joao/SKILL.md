@@ -1,5 +1,5 @@
 ---
-name: agente-joao
+name: 21-agente-joao
 description: Use esta skill quando precisar gerar texto, respostas, mensagens ou qualquer conteúdo no estilo do João Vitor. Contém o perfil completo de comunicação baseado na análise de 3.122 mensagens reais do WhatsApp.
 ---
 

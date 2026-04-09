@@ -1,5 +1,5 @@
 ---
-name: refactor
+name: 09-refactor
 description: Use esta skill quando o usuário quiser reorganizar, limpar ou melhorar código existente sem mudar o comportamento. Use também quando arquivos estiverem muito grandes, houver código duplicado ou a estrutura estiver confusa.
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: landing-page
+name: 17-landing-page
 description: Use esta skill quando o usuário quiser criar uma landing page de alta conversão no Next.js. Aplica princípios de CRO (otimização de conversão) e psicologia do consumidor.
 ---
 

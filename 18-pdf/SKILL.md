@@ -1,5 +1,5 @@
 ---
-name: pdf
+name: 18-pdf
 description: Use esta skill sempre que o usuário quiser fazer qualquer coisa com arquivos PDF — ler, criar, extrair texto ou tabelas, juntar, dividir, adicionar marca d'água, gerar relatórios em PDF ou manipular formulários PDF.
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: arquitetura
+name: 01-arquitetura
 description: Use esta skill quando o usuário quiser iniciar um projeto do zero, definir a estrutura de pastas, escolher a stack, ou planejar a arquitetura de um sistema antes de começar a codar.
 ---
 

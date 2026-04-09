@@ -1,5 +1,5 @@
 ---
-name: banco-postgres
+name: 02-banco-postgres
 description: Use esta skill quando o usuário precisar criar tabelas, alterar o schema, criar relações, índices ou migrations no PostgreSQL. Também use quando precisar criar a conexão com o banco ou popular com dados de exemplo.
 ---
 

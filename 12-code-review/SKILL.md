@@ -1,5 +1,5 @@
 ---
-name: code-review
+name: 12-code-review
 description: Use esta skill quando o usuário quiser revisar código antes de fazer deploy, quando uma feature estiver pronta ou quando quiser garantir que o código está correto, seguro e bem estruturado.
 ---
 

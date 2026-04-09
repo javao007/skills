@@ -1,5 +1,5 @@
 ---
-name: integracao-api
+name: 05-integracao-api
 description: Use esta skill quando o usuário precisar conectar o sistema a uma API externa como WhatsApp, Stripe, Meta Ads, SendGrid, ou qualquer outro serviço de terceiro.
 ---
 

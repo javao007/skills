@@ -1,5 +1,5 @@
 ---
-name: deploy
+name: 07-deploy
 description: Use esta skill quando o usuário quiser fazer deploy de um sistema, atualizar em produção, configurar domínio, variáveis de ambiente, ou preparar o projeto para ir ao ar na Vercel (frontend) e no Coolify (backend).
 ---
 

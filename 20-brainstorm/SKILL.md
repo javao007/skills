@@ -1,5 +1,5 @@
 ---
-name: brainstorm
+name: 20-brainstorm
 description: Use esta skill antes de implementar qualquer coisa quando o usuário ainda não tem clareza sobre o que quer construir, quando há múltiplas formas de resolver um problema ou quando precisa explorar ideias antes de decidir a abordagem.
 ---
 

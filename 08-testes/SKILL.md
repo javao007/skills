@@ -1,5 +1,5 @@
 ---
-name: testes
+name: 08-testes
 description: Use esta skill quando o usuário quiser criar testes automatizados para qualquer parte do sistema — rotas, funções, fluxos completos ou componentes.
 ---
 

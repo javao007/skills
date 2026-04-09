@@ -1,5 +1,5 @@
 ---
-name: api-design
+name: 16-api-design
 description: Use esta skill quando o usuário precisar projetar rotas de API, definir contratos entre frontend e backend, criar endpoints RESTful ou padronizar as respostas da API.
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: seguranca
+name: 14-seguranca
 description: Use esta skill para auditar vulnerabilidades de segurança no código, antes de um deploy importante ou quando o usuário quiser garantir que o sistema é seguro. Baseado nas vulnerabilidades OWASP Top 10.
 ---
 

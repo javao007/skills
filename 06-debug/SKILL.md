@@ -1,5 +1,5 @@
 ---
-name: debug
+name: 06-debug
 description: Use esta skill sempre que o usuário reportar um erro, bug ou comportamento inesperado. Também use quando algo não funcionar como esperado mesmo sem mensagem de erro. NUNCA aplique um fix sem antes identificar a causa raiz.
 ---
 

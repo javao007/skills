@@ -1,5 +1,5 @@
 ---
-name: docs
+name: 10-docs
 description: Use esta skill quando o usuário quiser documentar o projeto, gerar um README, documentar a API, criar guia de onboarding ou explicar como uma funcionalidade funciona.
 ---
 

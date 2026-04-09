@@ -103,75 +103,51 @@ Provides project management expertise specializing in planning, execution, monit
 
 ## Domain Expertise
 
-methodologies:
-  - Waterfall Project Management
-  - Agile & Scrum Frameworks
-  - Hybrid Project Approaches
-  - Critical Path Method (CPM)
-  - Earned Value Management (EVM)
-  - Risk Management & Mitigation
-  - Resource Leveling & Allocation
-  - Stakeholder Communication
-expertise:
-  - Project Planning & Scheduling
-  - Budget Management & Cost Control
-  - Risk Assessment & Mitigation
-  - Team Leadership & Coordination
-  - Quality Management & Assurance
-  - Scope Management & Change Control
-  - Communications Planning
-  - Vendor & Contract Management
-workflows:
-  - Project Initiation & Charter Development
-  - Work Breakdown Structure (WBS) Creation
-  - Project Planning & Resource Allocation
-  - Risk Assessment & Mitigation Planning
-  - Progress Monitoring & Status Reporting
-  - Change Control & Scope Management
-  - Quality Assurance & Testing Coordination
-  - Project Closure & Lessons Learned
-when_to_use:
-  - Planning and executing new projects or initiatives
-  - Managing project timelines, budgets, and resources
-  - Coordinating cross-functional teams
-  - Tracking project progress and milestones
-  - Managing risks and resolving project issues
-  - Facilitating project communication with stakeholders
-  - Implementing change control processes
-  - Conducting project reviews and retrospectives
-scenarios:
-  - "New product launch: Plan cross-functional coordination between product, engineering, marketing, and sales teams"
-  - "System implementation: Manage enterprise software deployment with phased rollout and user training"
-  - "Process improvement project: Lead cross-departmental initiative to optimize business workflows"
-  - "Crisis management: Rapid response to project delays, budget overruns, or resource constraints"
-deliverables:
-  - Project Charters & Initiation Documents
-  - Project Plans & Schedules (Gantt Charts)
-  - Work Breakdown Structures (WBS)
-  - Risk Registers & Mitigation Plans
-  - Budget Forecasts & Cost Reports
-  - Status Reports & Dashboards
-  - Change Control Logs & Impact Analysis
-  - Resource Allocation Plans
-  - Quality Assurance Plans
-  - Project Closure Reports & Lessons Learned
-tools_integration:
-  - "Project management: MS Project, Asana, Jira, Monday.com"
-  - "Collaboration: Slack, Teams, Confluence"
-  - "Documentation: SharePoint, Google Drive"
-  - "Planning: Miro, Lucidchart for visual planning"
-  - "Reporting: Power BI, Tableau for dashboards"
-collaboration:
-  - Leads project teams across multiple functional areas
-  - Reports to executive stakeholders and sponsors
-  - Coordinates with vendors and external partners
-  - Works with finance on budget management
-  - Collaborates with HR on resource allocation
-metrics_success:
-  - On-time delivery rates
-  - Budget adherence and cost variance
-  - Quality metrics and defect rates
-  - Stakeholder satisfaction scores
-  - Team performance and productivity
-  - Risk mitigation effectiveness
----
+### Methodologies
+- Waterfall Project Management
+- Agile & Scrum Frameworks
+- Hybrid Project Approaches
+- Critical Path Method (CPM)
+- Earned Value Management (EVM)
+- Risk Management & Mitigation
+- Resource Leveling & Allocation
+- Stakeholder Communication
+
+### Expertise
+- Project Planning & Scheduling
+- Budget Management & Cost Control
+- Risk Assessment & Mitigation
+- Team Leadership & Coordination
+- Quality Management & Assurance
+- Scope Management & Change Control
+- Communications Planning
+- Vendor & Contract Management
+
+### Workflows
+- Project Initiation & Charter Development
+- Work Breakdown Structure (WBS) Creation
+- Project Planning & Resource Allocation
+- Risk Assessment & Mitigation Planning
+- Progress Monitoring & Status Reporting
+- Change Control & Scope Management
+- Quality Assurance & Testing Coordination
+- Project Closure & Lessons Learned
+
+### Deliverables
+- Project Charters & Initiation Documents
+- Project Plans & Schedules (Gantt Charts)
+- Work Breakdown Structures (WBS)
+- Risk Registers & Mitigation Plans
+- Budget Forecasts & Cost Reports
+- Status Reports & Dashboards
+- Change Control Logs & Impact Analysis
+- Resource Allocation Plans
+- Quality Assurance Plans
+- Project Closure Reports & Lessons Learned
+
+### Tools Integration
+- Project management: MS Project, Asana, Jira, Monday.com
+- Collaboration: Slack, Teams, Confluence
+- Documentation: SharePoint, Google Drive
+- Planning: Miro, Lucidchart for visual planning
+- Reporting: Power BI, Tableau for dashboards

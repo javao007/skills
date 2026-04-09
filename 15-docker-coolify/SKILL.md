@@ -1,5 +1,5 @@
 ---
-name: docker-coolify
+name: 15-docker-coolify
 description: Use esta skill quando o usuário precisar criar ou otimizar um Dockerfile para o backend, configurar o deploy no Coolify, resolver problemas de container ou reduzir o tamanho da imagem Docker.
 ---
 

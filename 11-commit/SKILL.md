@@ -1,5 +1,5 @@
 ---
-name: commit
+name: 11-commit
 description: Use esta skill quando o usuário quiser fazer um git commit. Analise as mudanças, gere uma mensagem descritiva e execute o commit. Sempre use quando o usuário disser "commita", "faz commit" ou "salva as mudanças no git".
 disable-model-invocation: true
 ---
